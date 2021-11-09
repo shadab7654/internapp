@@ -1,0 +1,167 @@
+.container h2{
+    text-align: center;
+    font-size: 2rem;
+    color: rgb(240, 236, 241);
+    margin-top: 1em;
+    font-family: sans-serif;
+}
+.somepara{
+    margin-bottom: 120px;
+}
+.productimg{
+    display: flex;
+    margin-top: 2em;
+}
+.prduct1{
+/* background-color: yellow; */
+width: 30%;
+margin-left: .5em;
+box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.prduct1 h1{
+    font-size: 1.5rem;
+    margin-left: .8em;
+    margin-top: .5em;
+    color: rgb(240, 236, 241);
+}
+.prduct1 p{
+    font-size: .9rem;
+    margin-left: .8em;
+    margin-top: .5em;
+}
+.prduct1 img{
+    width: 360px;
+    height: 200px;
+}
+
+.prduct2{
+    /* background-color: yellow; */
+    width: 30%;
+    margin-left: 1.5em;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    }
+    .prduct2 h1{
+        font-size: 1.5rem;
+        margin-left: .8em;
+        margin-top: .5em;
+        color: rgb(240, 236, 241);
+    }
+    .prduct2 p{
+        font-size: .9rem;
+        margin-left: .8em;
+        margin-top: .5em;
+    }
+    .prduct2 img{
+        width: 360px;
+        height: 200px;
+    }
+
+    .prduct3{
+        /* background-color: yellow; */
+        width: 30%;
+        margin-left: 2.5em;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+        }
+        .prduct3 h1{
+            font-size: 1.5rem;
+            margin-left: .8em;
+            margin-top: .5em;
+            color: rgb(240, 236, 241);
+        }
+        .prduct3 p{
+            font-size: .9rem;
+            margin-left: .8em;
+            margin-top: .5em;
+        }
+        .prduct3 img{
+            width: 360px;
+            height: 200px;
+        }
+.productimg2{
+    display: flex ;
+    margin-top: 2em;
+    
+}
+.prduct4{
+    /* background-color: yellow; */
+    width: 30%;
+    margin-left: .5em;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    }
+.prduct4 h1{
+        font-size: 1.5rem;
+        margin-left: .8em;
+        margin-top: .5em;
+        color: rgb(240, 236, 241);
+ }
+ .prduct4 p{
+        font-size: .9rem;
+        margin-left: .8em;
+        margin-top: .5em;
+}
+.prduct4 img{
+        width: 360px;
+        height: 200px;
+    }
+    
+.prduct5{
+        /* background-color: yellow; */
+        width: 30%;
+        margin-left: 1.5em;
+        box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+        }
+ .prduct5 h1{
+            font-size: 1.5rem;
+            margin-left: .8em;
+            margin-top: .5em;
+            color: rgb(240, 236, 241);
+        }
+.prduct5 p{
+            font-size: .9rem;
+            margin-left: .8em;
+            margin-top: .5em;
+        }
+ .prduct5 img{
+            width: 360px;
+            height: 200px;
+    }
+     .prduct6{
+            /* background-color: yellow; */
+            width: 30%;
+            margin-left: 2.5em;
+            box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+      }
+.prduct6 h1{
+                font-size: 1.5rem;
+                margin-left: .8em;
+                margin-top: .5em;
+                color: rgb(240, 236, 241);
+            }
+  .prduct6 p{
+                font-size: .9rem;
+                margin-left: .8em;
+                margin-top: .5em;
+            }
+ .prduct6 img{
+                width: 360px;
+                height: 200px;
+   }
+   .somepara{
+       margin-top: 2em;
+       box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 2px 0px;
+   }
+   .somepara p{
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       font-size: 1rem;
+       color: #6e0b77;
+   }
+   .somepara p:hover{
+       color: rgb(172, 162, 25);
+   }
+   .prduct1:hover, .prduct2:hover,.prduct3:hover,.prduct4:hover,.prduct5:hover,.prduct6:hover{
+    box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+   }
+   
+    
